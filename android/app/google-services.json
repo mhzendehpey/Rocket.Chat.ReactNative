@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690546840598",
+    "project_id": "hakim-chat-babde",
+    "storage_bucket": "hakim-chat-babde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690546840598:android:e5b34a197683f622395137",
+        "android_client_info": {
+          "package_name": "com.hakim.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690546840598-3nshir05g019psv5ol0qmvio71aqvni8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaMEtUKpdgK4dB0_oyfycCNz6m6LqZks4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690546840598-3nshir05g019psv5ol0qmvio71aqvni8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
